@@ -1,5 +1,9 @@
 Follow along at https://codingchallenges.fyi/challenges/challenge-wc to build your own solution
 
+
+![Output](https://drive.google.com/file/d/1BMR5oB9wljCIRAfbhGA7m1JKhx_XnEyD/view?usp=sharing)
+
+```
 arpangoswami@Arpans-MacBook-Air wc_CliTool % ./ccwc test.txt         
 7145    58164   342190  test.txt
 arpangoswami@Arpans-MacBook-Air wc_CliTool % go build ccwc.go        
@@ -21,3 +25,4 @@ arpangoswami@Arpans-MacBook-Air wc_CliTool % ./ccwc -l test.txt
 7145    test.txt
 arpangoswami@Arpans-MacBook-Air wc_CliTool % ./ccwc test.txt 
 7145    58164   342190  test.txt
+```
